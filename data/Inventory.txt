@@ -1,0 +1,113 @@
+Milk|Grocery|13|240
+Teddy Bear|Toys|33|1800
+Laptop|Electronics|54|120000
+Speaker|Electronics|29|3000
+Keyboard|Electronics|30|3333
+Mouse|Electronics|39|1200
+LED TV|Electronics|15|55000
+Router|Electronics|24|4500
+Rice|Grocery|63|210
+Flour|Grocery|59|180
+Sugar|Grocery|56|200
+Cooking Oil|Grocery|40|700
+Tea|Grocery|29|450
+Salt|Grocery|80|60
+Lentils|Grocery|45|280
+Spices|Grocery|50|150
+Milk Powder|Grocery|35|900
+Eggs|Grocery|60|300
+Notebook|Stationary|80|2
+Pen|Stationary|100|40
+Pencil|Stationary|116|3
+Highlighter|Stationary|40|120
+File|Stationary|53|200
+Glue|Stationary|30|150
+Panadol|Medicines|1000|60
+Brufen|Medicines|80|120
+Syrup|Medicines|50|180
+Vitamin C|Medicines|60|250
+Antibiotic|Medicines|58|400
+Cough Syrup|Medicines|30|220
+Allergy Tablet|Medicines|70|150
+Pain Relief Gel|Medicines|25|300
+ORS|Medicines|90|50
+Thermometer|Medicines|20|450
+Cricket Bat|Sports|30|3500
+Cricket Ball|Sports|60|300
+Football|Sports|40|1800
+Badminton Racket|Sports|25|2500
+Shuttlecock|Sports|44|200
+Skipping Rope|Sports|35|400
+Gloves|Sports|30|900
+Helmet|Sports|20|3200
+Sports Shoes|Sports|25|4500
+Foundation|Makeup|39|1800
+Mascara|Makeup|35|1100
+Eyeliner|Makeup|45|900
+Blush|Makeup|30|1400
+Compact Powder|Makeup|40|1000
+Makeup Brush|Makeup|17|2200
+Nail Polish|Makeup|69|400
+Primer|Makeup|20|1600
+Makeup Remover|Makeup|30|800
+Shirt|Clothing|40|2500
+Jeans|Clothing|35|3500
+T-Shirt|Clothing|50|1800
+Jacket|Clothing|25|5500
+Sweater|Clothing|30|4200
+Kurta|Clothing|45|3000
+Shalwar|Clothing|50|2200
+Scarf|Clothing|60|900
+Socks|Clothing|80|400
+Cap|Clothing|55|700
+Gold Ring|Jewellery|15|40000
+Silver Ring|Jewellery|20|12000
+Necklace|Jewellery|18|55000
+Earrings|Jewellery|30|15000
+Bracelet|Jewellery|25|18000
+Bangles|Jewellery|40|8000
+Pendant|Jewellery|29|22000
+Anklet|Jewellery|30|7000
+Jewellery Set|Jewellery|10|100000
+Microwave|Home Appliances|15|28000
+Refrigerator|Home Appliances|10|90000
+Washing Machine|Home Appliances|468|75000
+Electric Kettle|Home Appliances|25|4500
+Toaster|Home Appliances|20|5200
+Iron|Home Appliances|30|3800
+Blender|Home Appliances|18|6500
+Air Cooler|Home Appliances|10|55000
+Vacuum Cleaner|Home Appliances|14|22000
+Water Dispenser|Home Appliances|12|48000
+Apple|Fruits|280|250
+Banana|Fruits|100|180
+Orange|Fruits|70|220
+Mango|Fruits|60|300
+Grapes|Fruits|55|280
+Potato|Vegetables|90|90
+Tomato|Vegetables|85|120
+Onion|Vegetables|80|110
+Carrot|Vegetables|75|100
+Cucumber|Vegetables|65|95
+Toy Car|Toys|50|800
+Doll|Toys|45|1200
+Lego Set|Toys|30|4500
+Puzzle|Toys|42|900
+Remote Car|Toys|25|3500
+Teddy Bear|Toys|35|1800
+Action Figure|Toys|30|2200
+Board Game|Toys|20|4000
+Toy Gun|Toys|28|1500
+Rubber Ball|Toys|60|300
+Bridal Dress|Wedding|8|150000
+Groom Sherwani|Wedding|10|85000
+Wedding Shoes|Wedding|20|12000
+Bridal Jewelry|Wedding|6|250000
+Dupatta|Wedding|25|8000
+Wedding Bangles|Wedding|40|5000
+Mehndi Cone|Wedding|60|250
+Wedding Perfume|Wedding|18|15000
+Flower Jewelry|Wedding|30|4000
+Wedding Clutch|Wedding|22|9000
+Pent Coat|Wedding|50|10000
+Sohail|Grocery|1|150

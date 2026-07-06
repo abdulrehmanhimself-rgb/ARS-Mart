@@ -1,0 +1,13 @@
+Electronics
+Grocery
+Stationary
+Medicines
+Sports
+Makeup
+Clothing
+Jewellery
+Home Appliances
+Fruits
+Vegetables
+Toys
+Wedding

@@ -1,0 +1,23 @@
+# Java compiled files
+*.class
+bin/
+out/
+
+# C++ compiled files
+*.exe
+*.obj
+*.o
+*.out
+*.dll
+
+# Visual Studio generated files
+x64/
+Debug/
+Release/
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
