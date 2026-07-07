@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Abdul Wasay/source/repos/Project OOP/Project OOP",
-      "program": "c:/Users/Abdul Wasay/source/repos/Project OOP/Project OOP/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
